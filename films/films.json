@@ -1,0 +1,102 @@
+[
+    {
+        "titre": "Titanic",
+        "date_de_sortie": "07 janvier 1998",
+        "duree": "3h14min",
+        "genre": "drame, romance",
+        "realisateur": "James Cameron",
+        "synopsis": "Southampton, 10 avril 1912. Le paquebot le plus grand et le plus moderne du monde, r\u00e9put\u00e9 pour son insubmersibilit\u00e9, le Titanic appareille pour son premier voyage. Quatre jours plus tard, il heurte un iceberg. A son bord, un artiste pauvre et une grande bourgeoise tombent amoureux.",
+        "id": 1275081,
+        "extension": "jpg"
+    },
+    {
+        "titre": "Bienvenue chez les Ch'tis",
+        "date_de_sortie": "27 f\u00e9vrier 2008",
+        "duree": "1h 46min",
+        "genre": "Com\u00e9die",
+        "realisateur": "Danny Boon",
+        "synopsis": "L'histoire d'un homme originaire du sud de la France qui travaille \u00e0 la Poste et se retrouve mut\u00e9 dans le Nord.",
+        "id": 1361907,
+        "extension": "jpg"
+    },
+    {
+        "titre": "Intouchables",
+        "date_de_sortie": "2 novembre 2011",
+        "duree": "1h 52min",
+        "genre": "Com\u00e9die",
+        "realisateur": "Eric Toledano, Olivier Nakache",
+        "synopsis": "La rencontre improbable, touchante et dr\u00f4le entre un riche aristocrate, t\u00e9trapl\u00e9gique depuis un accident de parapente, et un jeune de banlieue engag\u00e9 par hasard pour \u00eatre son aide \u00e0 domicile...",
+        "id": 1730723,
+        "extension": "jpg"
+    },
+    {
+        "titre": "Blanche-Neige et les sept nains",
+        "date_de_sortie": "4 mai 1938",
+        "duree": "1h 23min",
+        "genre": "Animation",
+        "realisateur": "David Hand",
+        "synopsis": "Blanche Neige est une princesse d'une tr\u00e8s grande beaut\u00e9, ce qui rend jalouse sa belle-m\u00e8re. Celle-ci demande quotidiennement \u00e0 son miroir magique de lui dire qu'elle est la plus belle ; mais un jour, le miroir affirme que la plus belle femme du royaume est Blanche Neige. La reine d\u00e9cide alors de la tuer mais le garde charg\u00e9 de cette t\u00e2che ...",
+        "id": 1766757,
+        "extension": "jpg"
+    },
+    {
+        "titre": "La Grande Vadrouille",
+        "date_de_sortie": "8 d\u00e9cembre 1966",
+        "duree": "2h 12min",
+        "genre": "Com\u00e9die",
+        "realisateur": "G\u00e9rard Oury",
+        "synopsis": "En 1942, un avion anglais est abattu par les Allemands au-dessus de Paris. Les trois pilotes sautent en parachute et atterrissent dans diff\u00e9rents endroits de la capitale. ",
+        "id": 1749981,
+        "extension": "jpg"
+    },
+    {
+        "titre": "Autant en emporte le vent",
+        "date_de_sortie": "20 mai 1950",
+        "duree": "3h 58min",
+        "genre": "Drame, Romance",
+        "realisateur": "Victor Fleming, George Cukor, Sam Wood",
+        "synopsis": "Georgie, 1861. Scarlett O'Hara est une jeune femme de la haute soci\u00e9t\u00e9 sudiste courtis\u00e9e par les bons partis du pays. Mais elle n'a d'yeux que pour Ashley et ce malgr\u00e9 ses fian\u00e7ailles avec sa cousine. Scarlett est d\u00e9cid\u00e9e \u00e0 le faire changer d'avis...",
+        "id": 1056850,
+        "extension": "jpg"
+    },
+    {
+        "titre": "Il \u00e9tait une fois dans l'Ouest",
+        "date_de_sortie": "27 ao\u00fbt 1969",
+        "duree": "2h 55min",
+        "genre": "Western",
+        "realisateur": "Sergio Leone",
+        "synopsis": "Un myst\u00e9rieux desperado pourchasse sans rel\u00e2che un dangereux criminel.",
+        "id": 1961963,
+        "extension": "jpg"
+    },
+    {
+        "titre": "Le Livre de la jungle",
+        "date_de_sortie": "18 octobre 1967",
+        "duree": "1h 18min",
+        "genre": "Animation, Aventure, Famille",
+        "realisateur": "Wolfgang Reitherman",
+        "synopsis": "La panth\u00e8re Bagh\u00e9era d\u00e9couvre dans la jungle un jeune enfant abandonn\u00e9. Elle d\u00e9cide de le confier \u00e0 une famille de loups qui l'\u00e9leve comme un louveteau. Alors que Mowgli a dix ans, le tigre Shere Kahn approche du territoire des loups. ",
+        "id": 1253094,
+        "extension": "jpg"
+    },
+    {
+        "titre": "Avatar",
+        "date_de_sortie": "16 d\u00e9cembre 2009",
+        "duree": "2h 42min",
+        "genre": "Science fiction, Aventure",
+        "realisateur": "James Cameron",
+        "synopsis": "Sur la lointaine plan\u00e8te de Pandora, Jake Sully, un h\u00e9ros malgr\u00e9 lui, se lance dans une qu\u00eate de r\u00e9demption, de d\u00e9couverte, d'amour inattendu, dont l'issue sera un combat h\u00e9ro\u00efque pour sauver toute une civilisation.",
+        "id": 1266875,
+        "extension": "jpg"
+    },
+    {
+        "titre": "Les 101 Dalmatiens",
+        "date_de_sortie": "20 d\u00e9cembre 1961",
+        "duree": "1h 19min",
+        "genre": "Animation, Aventure, Famille",
+        "realisateur": "Clyde Geronimi, Hamilton Luske, Wolfgang Reitherman",
+        "synopsis": "Pongo et Perdita, deux magnifiques dalmatiens, deviennent parents de quinze b\u00e9b\u00e9s chiens. Mais l\u2019inf\u00e2me Cruella convoite les chiots. Un soir, ses sbires font main basse sur la port\u00e9e. Pongo et Perdita se lancent alors dans un plan de sauvetage d\u00e9sesp\u00e9r\u00e9...",
+        "id": 1845000,
+        "extension": "jpg"
+    }
+]
